@@ -1,2 +1,2 @@
 # hello
-this os hello world
+this is hello world
